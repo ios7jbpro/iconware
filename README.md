@@ -5,4 +5,5 @@ This project is worked on with Pixellab and Figma.
 
 Credits:
 
-Flaticons
+-Flaticons
+-Vecteezy
